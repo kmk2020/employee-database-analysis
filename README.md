@@ -14,3 +14,23 @@ To determine the number of current employees per their title, who are eligible f
 * Visual Studio
 * PostgreSQL
 
+## Results
+
+* Retiring titles
+
+![image](https://user-images.githubusercontent.com/89704371/180108046-5c7cd402-91e1-4d00-addb-f4e5a063c848.png)
+
+
+* Unique titles
+
+![image](https://user-images.githubusercontent.com/89704371/180108017-4a4a439d-5c7c-4a47-aef9-26d4b597c087.png)
+
+
+* Retirement titles
+
+![image](https://user-images.githubusercontent.com/89704371/180107872-99c8471c-8f24-49a7-85f3-2fa649a8be97.png)
+
+
+* mentorship Eligibility
+
+![image](https://user-images.githubusercontent.com/89704371/180107948-1e23306a-d8f7-4763-a309-cc0e39dfd8bd.png)
