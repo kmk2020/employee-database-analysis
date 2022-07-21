@@ -20,6 +20,7 @@ To determine the number of current employees per their title, who are eligible f
 
 ![image](https://user-images.githubusercontent.com/89704371/180108046-5c7cd402-91e1-4d00-addb-f4e5a063c848.png)
 
+ The high number of senior staff and engineers will prompt the company to plan ahead on matters talent acquisition, growth and development.
 
 * Unique titles
 
@@ -34,3 +35,15 @@ To determine the number of current employees per their title, who are eligible f
 * mentorship Eligibility
 
 ![image](https://user-images.githubusercontent.com/89704371/180107948-1e23306a-d8f7-4763-a309-cc0e39dfd8bd.png)
+
+## Summary
+
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
+
+1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
+
+90,398 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
+
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+No, we have 1,940 employees who are eligible to participate in a mentorship program.
